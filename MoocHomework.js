@@ -6,7 +6,7 @@ setTimeout(function(){
         });
     $(".j-textarea").each(
         function(){
-            $(this).val("Good Job."); //这里是点评的内容
+            $(this).val("Good."); //这里是点评的内容
         });
 },1000)
 setTimeout(function(){
